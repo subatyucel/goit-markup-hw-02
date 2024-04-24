@@ -1,0 +1,24 @@
+.nav-link {
+  color: #2e2f42;
+}
+
+.nav-link:hover {
+  color: #404bbf;
+}
+
+.address-link {
+  color: #434455;
+}
+
+.address-link:hover {
+  color: #404bbf;
+}
+
+.btn {
+  background-color: #4d5ae5;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #404bbf;
+}
