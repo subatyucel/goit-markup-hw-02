@@ -98,3 +98,19 @@ body {
   background-color: #404bbf;
   cursor: pointer;
 }
+
+/* SECOND SECTION */
+.second-section-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.second-section-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
