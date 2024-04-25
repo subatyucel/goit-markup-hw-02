@@ -90,7 +90,7 @@ body {
   color: #ffffff;
 }
 
-.btn:hover {
+.btn:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
