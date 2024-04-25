@@ -6,6 +6,14 @@
   color: #404bbf;
 }
 
+.address-link:active {
+  color: #404bbf;
+}
+
+.address-link:focus {
+  color: #404bbf;
+}
+
 .btn {
   background-color: #4d5ae5;
   color: #fff;
@@ -40,6 +48,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .nav-link:hover {
